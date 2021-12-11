@@ -1,7 +1,8 @@
 package com.javaex.ex01;
 
 public class PersonApp {
-
+	
+//	이 클래스의 내용은 변경하지 않고 만들것
 	public static void main(String[] args) {
 
 		Person p = new Person("정우성", "010-1111-2222");

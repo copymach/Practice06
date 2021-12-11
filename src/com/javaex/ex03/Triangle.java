@@ -1,5 +1,5 @@
 package com.javaex.ex03;
-
+//수정하지 말것
 public class Triangle extends Shape{
 	
 	private int width;
@@ -18,8 +18,3 @@ public class Triangle extends Shape{
 		System.out.println("#세로:"+height);
 	}
 }
-
-
-
-
-

@@ -1,7 +1,9 @@
 package com.javaex.ex02;
 
+//수정하지 말것
+//생성자 순서 파악하는 문제
 public class ShapeApp {
-
+	
 	public static void main(String[] args) {
 		
 		Shape s1 = new Shape("파랑", "파랑");
