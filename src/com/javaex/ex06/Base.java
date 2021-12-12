@@ -1,5 +1,5 @@
 package com.javaex.ex06;
-
+//	수정하지 않습니다
 public class Base {
 
     public void service(String state) {
